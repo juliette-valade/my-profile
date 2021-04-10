@@ -134,7 +134,6 @@ li{
 @media (max-width: 960px) {
   /* For a screen < 960px, this CSS will be read */
   .container {
-  	background-color: red;
     width: 700px;
   }
 }
